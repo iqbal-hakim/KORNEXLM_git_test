@@ -6,3 +6,7 @@ Neuroscience
 kornexlm@msu.edu
 Traverse City
 Proficient in Python, MATLAB, Mathematica, HTML/CSS
+
+
+Hakim Mohd Azhan
+mohdazh1@msu.edu
